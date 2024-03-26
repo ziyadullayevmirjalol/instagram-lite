@@ -1,0 +1,20 @@
+[
+    {
+        "Id": 1,
+        "UserId": 1,
+        "Title": "without Title",
+        "Content": "without Content",
+        "LikesCount": 12,
+        "CreatedAt": "2023-10-11T17:35:27.3866046+05:00",
+        "UpdatedAt": "2023-10-11T17:35:27.3866046+05:00"
+    },
+    {
+        "Id": 2,
+        "UserId": 1,
+        "Title": "without Title2",
+        "Content": "without Content too mnuch",
+        "LikesCount": 1212,
+        "CreatedAt": "2023-10-11T17:38:56.8166183+05:00",
+        "UpdatedAt": "2023-10-11T17:38:56.8166183+05:00"
+    }
+]

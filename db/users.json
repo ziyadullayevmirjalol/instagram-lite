@@ -1,0 +1,58 @@
+[
+    {
+        "Id": 1,
+        "Username": "a",
+        "Email": "gmail.com",
+        "Age": 0,
+        "CreatedAt": "Tue, 10 Oct 2023 22:50:14 +05",
+        "UpdatedAt": "Tue, 10 Oct 2023 22:50:14 +05"
+    },
+    {
+        "Id": 2,
+        "Username": "asdaa",
+        "Email": "",
+        "Age": 0,
+        "CreatedAt": "Tue, 10 Oct 2023 22:50:14 +05",
+        "UpdatedAt": "Tue, 10 Oct 2023 22:50:14 +05"
+    },
+    {
+        "Id": 3,
+        "Username": "dasa",
+        "Email": "",
+        "Age": 0,
+        "CreatedAt": "Tue, 10 Oct 2023 22:50:14 +05",
+        "UpdatedAt": "Tue, 10 Oct 2023 22:50:14 +05"
+    },
+    {
+        "Id": 4,
+        "Username": "adsa",
+        "Email": "",
+        "Age": 0,
+        "CreatedAt": "Tue, 10 Oct 2023 22:50:14 +05",
+        "UpdatedAt": "Tue, 10 Oct 2023 22:50:14 +05"
+    },
+    {
+        "Id": 5,
+        "Username": "ha",
+        "Email": "",
+        "Age": 0,
+        "CreatedAt": "Tue, 10 Oct 2023 22:50:14 +05",
+        "UpdatedAt": "Tue, 10 Oct 2023 22:50:14 +05"
+    },
+    {
+        "Id": 6,
+        "Username": "f",
+        "Email": "",
+        "Age": 0,
+        "CreatedAt": "Tue, 10 Oct 2023 22:50:14 +05",
+        "UpdatedAt": "Tue, 10 Oct 2023 22:50:14 +05"
+    },
+    {
+        "Id": 7,
+        "Username": "g",
+        "Email": "",
+        "Age": 0,
+        "CreatedAt": "Tue, 10 Oct 2023 22:50:14 +05",
+        "UpdatedAt": "Tue, 10 Oct 2023 22:50:14 +05"
+    }
+]

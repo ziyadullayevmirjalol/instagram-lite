@@ -1,0 +1,37 @@
+Instagram-lite
+
+Users{
+    id
+    username
+    email
+    age
+    created_at
+    updated_at 
+}
+
+Posts {
+    id
+    UserId
+    Title
+    Content
+    created_at
+    updated_at
+    likesCount
+}
+
+Comments {
+    id
+    UserId
+    postId
+    text 
+    created_at
+}
+
+Replies {
+    id
+    UserId
+    postId
+    commentid
+    text 
+    created_at
+}
